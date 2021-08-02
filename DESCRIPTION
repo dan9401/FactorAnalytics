@@ -54,7 +54,6 @@ Imports:
 Suggests: 
     R.rsp, tinytest
 VignetteBuilder: R.rsp
-LazyData: true
 LazyDataCompression: xz
 URL: https://github.com/braverock/FactorAnalytics
 RoxygenNote: 7.1.1
